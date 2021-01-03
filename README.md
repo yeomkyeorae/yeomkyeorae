@@ -1,5 +1,5 @@
 <h1> Hello! my name is Kyeorae, Yeom 👋</h1>
-
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 <h2 align="center">📚Tech Stack<h2>
 <p align="center"/>
 <img src="https://img.shields.io/badge/-Python-red">
