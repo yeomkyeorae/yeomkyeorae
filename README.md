@@ -1,6 +1,6 @@
 ### Hello! my name is Kyeorae, Yeom 👋
 
-## 📚Tech Stack
+## <center>📚Tech Stack</center>
 <p align="center"/>
 <img src="https://img.shields.io/badge/-Python-red">
 <img src="https://img.shields.io/badge/-Python-red">
