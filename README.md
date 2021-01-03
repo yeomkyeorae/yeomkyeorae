@@ -1,6 +1,6 @@
-### Hello! my name is Kyeorae, Yeom 👋
+<h1> Hello! my name is Kyeorae, Yeom 👋</h1>
 
-<h3 align="center">📚Tech Stack<h3>
+<h2 align="center">📚Tech Stack<h2>
 <p align="center"/>
 <img src="https://img.shields.io/badge/-Python-red">
 <img src="https://img.shields.io/badge/-Python-red">
@@ -11,7 +11,9 @@
 <img src="https://img.shields.io/badge/-MySQL-important">
 </p>
 
-## 🧐I'm interested
+<h2 align="center">🧐I'm interested in ...</h2>
+<h2 align="center">😎I'm enjoying ...</h2>
+
 <!--
 **yeomkyeorae/yeomkyeorae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
