@@ -1,9 +1,14 @@
 ### Hello! my name is Kyeorae, Yeom 👋
 
-# 📚Tech Stack
+## 📚Tech Stack
 ![](https://img.shields.io/badge/-Python-red)
 ![](https://img.shields.io/badge/-Javascript-yellowgreen)
+![](https://img.shields.io/badge/-Git-brightgreen)
+![](https://img.shields.io/badge/-React-9cf)
+![](https://img.shields.io/badge/-Node-pink)
+![](https://img.shields.io/badge/-MySQL-important)
 
+## 🧐I'm interested
 <!--
 **yeomkyeorae/yeomkyeorae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
