@@ -2,7 +2,6 @@
 <h2 align="center">📚Tech Stack<h2>
 <p align="center"/>
 <img src="https://img.shields.io/badge/-Python-red">
-<img src="https://img.shields.io/badge/-Python-red">
 <img src="https://img.shields.io/badge/-Javascript-yellowgreen">
 <img src="https://img.shields.io/badge/-Git-brightgreen">
 <img src="https://img.shields.io/badge/-React-9cf">
