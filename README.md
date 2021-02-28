@@ -11,17 +11,37 @@
 </p>
 
 <h2 align="center">🧐 Interested in</h2>
-<ul align="center">Frontend</ul>
-<ul align="center">Backend</ul>
-<ul align="center">Data Analysis</ul>
+
+- Frontend
+- Backend
+- Data Analysis
+
 <h2 align="center">😎 Career</h2>
-<ul align="center">CoreTrust(2020.08 ~ )</ul>
-<ul align="center">KETI(2017.07 ~ 2018.06)</ul>
+
+- CoreTrust(2020.08 ~ )
+  - ing...
+- KETI(2017.07 ~ 2018.06)
+  - Data analysis for prediction of voltage using deep learning and machine learning
+  - lstm, feature selectuon
+
 <h2 align="center">😄 Education</h2>
-<ul align="center">SSAFY(Samsung Software Academy For Youth, 2019.07 ~ 2020.06)</ul>
-<ul align="center">Ajou Univ. (2011.03 ~ 2017.02)</ul>
+
+- SSAFY(Samsung Software Academy For Youth, 2019.07 ~ 2020.06)
+  - HTML, CSS
+  - Javascript
+  - Python
+  - Django
+  - Vuejs
+  - git
+- Ajou Univ. (2011.03 ~ 2017.02)
+  - Economics
+  - ICT Convergence
+
 <h2 align="center">💬 You can reach me by ...</h2>
-<ul align="center">duarufp06@gmail.com</ul>
+
+- duarufp06@gmail.com
+
+
 <!--
 **yeomkyeorae/yeomkyeorae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
