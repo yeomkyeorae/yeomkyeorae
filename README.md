@@ -11,8 +11,10 @@
 </p>
 
 <h2 align="center">🧐I'm interested in ...</h2>
-<h5 align="center">Frontend</h5>
-<h5 align="center">Backend</h5>
+<li align="center">
+<ul>Frontend</ul>
+<ul>Backend</ul>
+</li>
 <h2 align="center">😎I'm enjoying ...</h2>
 
 <!--
