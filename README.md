@@ -6,11 +6,13 @@
 <img src="https://img.shields.io/badge/-Git-brightgreen">
 <img src="https://img.shields.io/badge/-React-9cf">
 <img src="https://img.shields.io/badge/-Node-pink">
+<img src="https://img.shields.io/badge/-Django-success">
 <img src="https://img.shields.io/badge/-MySQL-important">
 </p>
 
 <h2 align="center">🧐I'm interested in ...</h2>
-<h5 algin="center">asdf</h5>
+<h5 align="center">Frontend</h5>
+<h5 align="center">Backend</h5>
 <h2 align="center">😎I'm enjoying ...</h2>
 
 <!--
