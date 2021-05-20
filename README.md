@@ -8,6 +8,7 @@
 <img src="https://img.shields.io/badge/-Node-pink">
 <img src="https://img.shields.io/badge/-Django-success">
 <img src="https://img.shields.io/badge/-MySQL-important">
+<img src="https://img.shields.io/badge/-Docker-blue">
 </p>
 <hr>
 <h3 align="center">🧐 Interested in</h3>
