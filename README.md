@@ -13,7 +13,7 @@
 <hr>
 <h3 align="center">🧐 Interested in</h3>
 
-- Frontend
+- Frontend(especially)
 - Backend
 - Data Analysis
 <hr>
@@ -36,7 +36,7 @@
   - git
 - Ajou Univ. (2011.03 ~ 2017.02)
   - Economics
-  - ICT Convergence
+  - ICT Convergence(by SCSC, Samsung Convergence Software Course)
 <hr>
 <h3 align="center">💬 You can reach me by ...</h3>
 
