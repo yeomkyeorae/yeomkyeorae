@@ -1,5 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kyeorae%20Yeom&fontSize=90" />
-<img src="https://github-readme-stats.vercel.app/api?username=yeomkyeorae&show_icons=true&theme=merko" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&width=100%&section=header&text=Kyeorae%20Yeom&fontSize=90" />
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=yeomkyeorae&show_icons=true&theme=merko" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeomkyeorae&langs_count=10&layout=compact&hide=html,jupyter%20notebook&theme=merko" /></td>
+  </tr>
+</table>
 <h3 align="center">📚 Tech Stack<h3>
 <p align="center"/>
 <img src="https://img.shields.io/badge/-Python-red">
