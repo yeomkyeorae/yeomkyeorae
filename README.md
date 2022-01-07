@@ -1,8 +1,8 @@
 # Kyeorae, Yeom👋
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeomkyeorae&count_bg=%23EB910B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=griezmann07">
 <img src="https://github-readme-stats.vercel.app/api?username=yeomkyeorae&show_icons=true&theme=merko" />
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=griezmann07">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeomkyeorae&langs_count=10&layout=compact&hide=html,jupyter%20notebook&theme=merko" />
 <h3 align="center">📚 Tech Stack<h3>
 <p align="center"/>
