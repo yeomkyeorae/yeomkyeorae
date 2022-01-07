@@ -3,6 +3,7 @@
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=yeomkyeorae&show_icons=true&theme=merko" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeomkyeorae&langs_count=10&layout=compact&hide=html,jupyter%20notebook&theme=merko" /></td>
+    <td><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=griezmann07"></td>
   </tr>
 </table>
 <h3 align="center">📚 Tech Stack<h3>
