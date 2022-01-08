@@ -29,8 +29,12 @@
 </p>
 
 ## 🧐 I am ?
-[<img src="https://img.shields.io/badge/-Notion-lightgrey">](https://future-book-534.notion.site/8ce276cadda44640845cca8227298c20)
-[<img src="https://img.shields.io/badge/-Blog-success">](https://yeomkyeorae.github.io/)
+<a href="https://future-book-534.notion.site/8ce276cadda44640845cca8227298c20" target="_blank">
+  <img src="https://img.shields.io/badge/-Notion-lightgrey">
+</a>
+<a href="https://yeomkyeorae.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/-Blog-success">
+</a>
 
 ## 💬 Contact
 
