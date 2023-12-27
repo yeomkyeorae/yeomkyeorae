@@ -15,24 +15,20 @@
 ## 💪 Skill
 <p/>
   <img src="https://img.shields.io/badge/-Javascript-yellowgreen">
+  <img src="https://img.shields.io/badge/-TypeScript-blue">
+  <img src="https://img.shields.io/badge/-React.js-9cf">
+  <img src="https://img.shields.io/badge/-Next.js-red">
   <img src="https://img.shields.io/badge/-HTML-grenn">
   <img src="https://img.shields.io/badge/-CSS-blueviolet">
-  <img src="https://img.shields.io/badge/-React-9cf">
-  <img src="https://img.shields.io/badge/-TypeScript-blue">
   <img src="https://img.shields.io/badge/-Webpack-ff69b4">
-  <img src="https://img.shields.io/badge/-Python-red">
-  <img src="https://img.shields.io/badge/-Node-pink">
-  <img src="https://img.shields.io/badge/-MongoDB-success">
+  <img src="https://img.shields.io/badge/-Node.js-pink">
   <img src="https://img.shields.io/badge/-MariaDB-important">
   <img src="https://img.shields.io/badge/-Git-brightgreen">
   <img src="https://img.shields.io/badge/-Jira-informational">
 </p>
 
 ## 🧐 I am ?
-<a href="https://future-book-534.notion.site/8ce276cadda44640845cca8227298c20" target="_blank">
-  <img src="https://img.shields.io/badge/-Notion-lightgrey">
-</a>
-<a href="https://yeomkyeorae.github.io/" target="_blank">
+<a href="https://velog.io/@duarufp06" target="_blank">
   <img src="https://img.shields.io/badge/-Blog-success">
 </a>
 
